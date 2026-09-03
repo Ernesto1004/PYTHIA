@@ -17,7 +17,7 @@ To install the framework you need anaconda and git on a linux machine. In a term
 3. Install the conda enviroment:
   ```
   conda env create -f config.yml
-  conda activate charm-ml
+  conda activate pythia-hep
   conda develop .
   ```
 3.1 Update the conda enviroment:
